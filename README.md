@@ -1,7 +1,7 @@
 # Cooperative-PSO-LA
 <p align="justify"> Matlab codes for Cooperative Particle Swarm Optimization based on Learning Automata (CPSOLA) algorithm <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292436"  target="_blank">[1]</a>. </p>
 
-<h2><a href="URL" target="_blank">Full Text</a></h2>
+<h2><a href="http://cld.persiangig.com/download/0gKG9le1mn/IEEE-ICEE-2012.pdf/dl" target="_blank">Full Text</a></h2>
 
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
 
