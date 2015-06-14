@@ -9,9 +9,9 @@
 <h2><a id="references" class="anchor" href="#references" aria-hidden="true"><span class="octicon octicon-link"></span></a>References</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292436"  target="_blank">A robust heuristic algorithm for Cooperative Particle Swarm Optimizer: A Learning Automata approach</a>," in 2012 20th Iranian Conference on Electrical Engineering (ICEE), 2012, pp. 656 –661. </p>
+<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292436"  target="_blank">A robust heuristic algorithm for cooperative particle swarm optimizer: A learning automata approach</a>," in 2012 20th Iranian Conference on Electrical Engineering (ICEE), 2012, pp. 656 –661. </p>
 
-<p align="justify"> [2] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://en.journals.sid.ir/ViewPaper.aspx?ID=355393"  target="_blank">A Learning Automata Approach to Cooperative Particle Swarm Optimizer</a>," Journal of Information Systems and Telecommunication, vol. 2, no. 5, pp. 1–14, 2014. </p>
+<p align="justify"> [2] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://en.journals.sid.ir/ViewPaper.aspx?ID=355393"  target="_blank">A learning automata approach to cooperative particle swarm optimizer</a>," Journal of Information Systems and Telecommunication, vol. 2, no. 5, pp. 1–14, 2014. </p>
 
 
 
