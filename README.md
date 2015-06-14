@@ -1,5 +1,5 @@
 # Cooperative-PSO-LA
-<p align="justify"> Matlab codes for Cooperative Particle Swarm Optimization based on Learning Automata (CPSOLA) algorithm <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292436"  target="_blank">[1]</a>. </p>
+<p align="justify"> Matlab codes for Cooperative Particle Swarm Optimization based on Learning Automata (CPSOLA) algorithm <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292436"  target="_blank">[1]</a>  & <a href="http://en.journals.sid.ir/ViewPaper.aspx?ID=355393"  target="_blank">[2]</a>. </p>
 <h2><a href="http://cld.persiangig.com/download/0gKG9le1mn/IEEE-ICEE-2012.pdf/dl" target="_blank">Full Text</a></h2>
 <h2><a href="http://cld.persiangig.com/download/e1L1ZKlEhK/IEEE-ICEE-2012.pptx/dl" target="_blank"> Presentation </h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
@@ -9,5 +9,9 @@
 <h2><a id="reference" class="anchor" href="#reference" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292436"  target="_blank">A robust heuristic algorithm for Cooperative Particle Swarm Optimizer: A Learning Automata approach</a>," in 2012 20th Iranian Conference on Electrical Engineering (ICEE), 2012, pp. 656 –661.</p>
+<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292436"  target="_blank">A robust heuristic algorithm for Cooperative Particle Swarm Optimizer: A Learning Automata approach</a>," in 2012 20th Iranian Conference on Electrical Engineering (ICEE), 2012, pp. 656 –661. </p>
+
+<p align="justify"> [2] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://en.journals.sid.ir/ViewPaper.aspx?ID=355393"  target="_blank">A Learning Automata Approach to Cooperative Particle Swarm Optimizer</a>," Journal of Information Systems and Telecommunication, vol. 2, no. 5, pp. 1–14, 2014. </p>
+
+
 
